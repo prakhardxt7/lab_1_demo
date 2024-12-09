@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/381411820982284427/efbbeb2b6b6a4093aed07a88eeac464e/artifacts
+end_time: 1733733001184
+entry_point_name: ''
+experiment_id: '381411820982284427'
+lifecycle_stage: active
+run_id: efbbeb2b6b6a4093aed07a88eeac464e
+run_name: GB
+run_uuid: efbbeb2b6b6a4093aed07a88eeac464e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733732997126
+status: 3
+tags: []
+user_id: prakhar
